@@ -1,12 +1,3 @@
-👋 Bonjour, je m'appelle Luca 
-
-👨‍🎓 Je suis étudiant en première année de BUT Informatique à Nice
-
-♥️ Passionné depuis toujours de tout ce qui touche à l'informatique, je suis toujours à la recherche de nouvelles opportunités pour agrandir l'étendue de mes connaissances en informatique 
-
-⬆️ Je posterai bientôt mes projets personnels et scolaires ici 
-
-
 
 <!--
 **1eukos/1eukos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
